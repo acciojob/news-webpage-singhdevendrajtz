@@ -38,9 +38,10 @@ body{
 	border-radius:10%;
 	padding:10px;
 }
-.pictorial-news-section{
+div.pictorial-news-section{
 	margin:10px;
-	align-items:center;
+	text-align:center;
+	
 	display:flex;
 	flex-direction:column;
 	
